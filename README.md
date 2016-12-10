@@ -1,2 +1,2 @@
-# Wesleyan-Course-Week-1
+# Wesleyan-Coursera-Python-Intro-Course
 Files involved in Wesleyan's Coursera Intro Python course 
