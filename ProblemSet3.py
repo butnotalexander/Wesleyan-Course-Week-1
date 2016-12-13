@@ -1,5 +1,9 @@
 # - ProblemSet3.py *- coding: utf-8 -*-
 """
+FIXMEs: 3_1 - needs to print len(file) instead of "141"
+3_6
+3_7
+
 Problem 3_1:
 Write a function that reads a text file and counts the number of letters in it. Print both the text file and the number of letters. Do this so that the printout isn't doubled space (use an end= argument in the print statement). Also, skip a line before printing the count. Note that it is easy to get the number of letters in each line using the len() function. Here is my run for HumptyDumpty.txt.  Your output should look just like this for the autograder:
 
